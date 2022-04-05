@@ -1,0 +1,8 @@
+[
+  {
+    "name": "main",
+    "path": "/home/pi/S_Trading/main.js",
+    "start":"pm2 start /home/pi/S_Trading/main.js",
+    "restart":"pm2 restart main.js"
+  }
+]
