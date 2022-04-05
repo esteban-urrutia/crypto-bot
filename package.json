@@ -1,0 +1,18 @@
+{
+  "name": "binancewigglebot",
+  "version": "1.0.0",
+  "author": "El Esse",
+  "dependencies": {
+    "compressing": "1.5.1",
+    "dotenv": "10.0.0",
+    "fast-folder-size": "1.6.1",
+    "node-cron": "3.0.0",
+    "node-telegram-bot-api": "0.56.0",
+    "objects-to-csv": "1.3.6",
+    "ping": "0.4.1",
+    "randomstring": "1.2.1",
+    "semaphore": "1.1.0",
+    "superagent": "6.1.0",
+    "systeminformation": "5.9.17"
+  }
+}
