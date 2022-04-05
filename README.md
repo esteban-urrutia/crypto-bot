@@ -1,5 +1,6 @@
 # crypto-bot
-crypto-bot on node.js by Esteban Urrutia Martinez
+crypto-bot on node.js.
+Personal project by Esteban Urrutia Martinez
 
 1) choose best coin to invest, from all existing crypto coins, based in technical analysis recommendations
 2) buy
